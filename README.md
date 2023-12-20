@@ -1,6 +1,6 @@
-# sampa
+# Sampa - Flutter
 
-A new Flutter project.
+Repositório do Projeto SAMPA: Um projeto de aprendizado em Flutter, focado em interface de uma loja virtual simples. Explore o código para compreender princípios de design e desenvolvimento mobile.
 
 ## Getting Started
 
